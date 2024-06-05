@@ -2,7 +2,7 @@
 
 A collection of interesting plugins, articles and links for [Lume](https://lume.land/).
 
-## Learn
+# Learn
 
 - [Documentation](https://lume.land/docs/overview/about-lume/)
 - [Blog](https://lume.land/blog/)
@@ -23,8 +23,11 @@ A collection of interesting plugins, articles and links for [Lume](https://lume.
 - [From static site generator to static site processor](https://thomasorus.com/from-static-site-generator-to-static-site-processor.html)
 - [Thinking out loud about static site generators](https://paulrobertlloyd.com/2023/054/a1/lume/)
 - [Lume is Great and I'm finally at peace](https://hmans.co/posts/lume-is-great/)
+- [Lume SSG Handbook – How to Create a Static Blog with Lume](https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/)
+- [Lume, which is the simplest static site generator for Deno](https://dev.to/kbaba1001/lume-which-is-the-simplest-static-site-generator-for-deno-cjn)
+- [How to build a static site with Lume](https://deno.com/blog/build-a-static-site-with-lume)
 
-## Plugins
+# Plugins
 
 ### Data loaders
 
