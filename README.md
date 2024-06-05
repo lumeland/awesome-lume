@@ -2,6 +2,28 @@
 
 A collection of interesting plugins, articles and links for [Lume](https://lume.land/).
 
+## Learn
+
+- [Documentation](https://lume.land/docs/overview/about-lume/)
+- [Blog](https://lume.land/blog/)
+- [Mastodon](https://fosstodon.org/@lume)
+- [Discord](https://discord.gg/YbTmpACHWB)
+- [GitHub](https://github.com/lumeland/lume)
+
+### Videos
+
+- [Charla Lume con Óscar Otero](https://www.youtube.com/watch?v=Oa-IE1JZS2s) (Galician)
+- [Intro a Lume](https://www.youtube.com/watch?v=_Hz2Xj69UyQ) (Spanish)
+- [Getting started with Lume](https://www.youtube.com/watch?v=6ld61HU6V6k)
+- [Denolab](https://www.youtube.com/watch?v=lQb_u5X0gck)
+
+### Articles
+
+- [New Site Design for 2024](https://daniel-saunders.com/posts/notes/new-site-design-for-2024/)
+- [From static site generator to static site processor](https://thomasorus.com/from-static-site-generator-to-static-site-processor.html)
+- [Thinking out loud about static site generators](https://paulrobertlloyd.com/2023/054/a1/lume/)
+- [Lume is Great and I'm finally at peace](https://hmans.co/posts/lume-is-great/)
+
 ## Plugins
 
 ### Data loaders
