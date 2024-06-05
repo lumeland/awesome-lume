@@ -27,6 +27,17 @@ A collection of interesting plugins, articles and links for [Lume](https://lume.
 - [Lume, which is the simplest static site generator for Deno](https://dev.to/kbaba1001/lume-which-is-the-simplest-static-site-generator-for-deno-cjn)
 - [How to build a static site with Lume](https://deno.com/blog/build-a-static-site-with-lume)
 
+# Themes
+
+- [iStudyMen](https://lume.land/theme/istudymen/) (Blog) - [Demo](https://istudymen.github.io/)
+- [Lumocs](https://lume.land/theme/lumocs/) (Documentation) - [Demo](https://lumocs.56k.guru/)
+- [Shiraha](https://lume.land/theme/shiraha/) (Blog) - [Demo](https://lume.shiraha.js.org/)
+- [Simple Blog](https://lume.land/theme/simple-blog/) (Blog) - [Demo](https://lumeland.github.io/theme-simple-blog/)
+- [Simple Me](https://lume.land/theme/simple-me/) (Link in bio) - [Demo](https://lume.land/theme/simple-me/)
+- [Simple Wiki](https://lume.land/theme/simple-wiki/) (Documentation, Wiki) - [Demo](https://lumeland.github.io/theme-simple-wiki/)
+
+See the [Showcase](https://lume.land/showcase/) for real examples.
+
 # Plugins
 
 ### Data loaders
