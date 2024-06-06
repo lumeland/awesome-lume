@@ -33,7 +33,7 @@ A collection of interesting plugins, articles and links for [Lume](https://lume.
 - [Lumocs](https://lume.land/theme/lumocs/) (Documentation) - [Demo](https://lumocs.56k.guru/)
 - [Shiraha](https://lume.land/theme/shiraha/) (Blog) - [Demo](https://lume.shiraha.js.org/)
 - [Simple Blog](https://lume.land/theme/simple-blog/) (Blog) - [Demo](https://lumeland.github.io/theme-simple-blog/)
-- [Simple Me](https://lume.land/theme/simple-me/) (Link in bio) - [Demo](https://lume.land/theme/simple-me/)
+- [Simple Me](https://lume.land/theme/simple-me/) (Link in bio) - [Demo](https://lumeland.github.io/theme-simple-me/)
 - [Simple Wiki](https://lume.land/theme/simple-wiki/) (Documentation, Wiki) - [Demo](https://lumeland.github.io/theme-simple-wiki/)
 
 See the [Showcase](https://lume.land/showcase/) for real examples.
