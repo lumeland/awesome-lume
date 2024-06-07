@@ -105,6 +105,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [Pug](https://lume.land/plugins/pug/)
 - [Remark](https://lume.land/plugins/remark/)
 - [Vento](https://lume.land/plugins/vento/)
+- [Djot - 1A Edition](https://github.com/iacore/djot.js/blob/main/lume-djot-plugin.ts) 
 
 ### URL manipulation
 
