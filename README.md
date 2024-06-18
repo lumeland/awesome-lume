@@ -136,6 +136,16 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 
 - [Decap CMS](https://lume.land/plugins/decap_cms/)
 
+### Markdown
+- [Markdown plugins](https://deno.land/x/lume_markdown_plugins) Collection of markdown-it plugins adapted to Lume:
+  - Title: to extract automatically the main title
+  - Image: to extract automatically the main image
+  - TOC: to generate a Table of Contents
+  - Footnotes: to extract footnotes.
+
+### Icons
+- [Icon plugins](https://github.com/lumeland/icon-plugins) Plugins to get icons from different collections (SimpleIcons, Phosphor)
+
 ### Data manipulation && providers
 
 - [Attributes](https://lume.land/plugins/attributes/)
@@ -155,6 +165,5 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [Filter pages](https://lume.land/plugins/filter_pages/)
 - [Publish](https://deno.land/x/lume_publish) (for Lume v1.x)
 - [Inclusive Language](https://deno.land/x/lume_plugin_inclusive_language)
-- [Markdown plugins](https://deno.land/x/lume_markdown_plugins) markdown-it plugins adapted to Lume: Title, Image, TOC, Footnotes
 - [Cache Assets](https://deno.land/x/lume_cache_assets)
 - [Aoba](https://deno.land/x/aoba) Fediverse Integration.
