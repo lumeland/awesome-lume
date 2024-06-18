@@ -137,6 +137,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [Decap CMS](https://lume.land/plugins/decap_cms/)
 
 ### Markdown
+
 - [Markdown plugins](https://deno.land/x/lume_markdown_plugins) Collection of markdown-it plugins adapted to Lume:
   - Title: to extract automatically the main title
   - Image: to extract automatically the main image
@@ -144,11 +145,11 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
   - Footnotes: to extract footnotes.
 
 ### Icons
+
 - [Icon plugins](https://github.com/lumeland/icon-plugins) Plugins to get icons from different collections (SimpleIcons, Phosphor)
 
-### Data manipulation && providers
+### Data manipulation
 
-- [Attributes](https://lume.land/plugins/attributes/)
 - [FFF](https://lume.land/plugins/fff/) to convert data structure to [FFF specification](https://fff.js.org/).
 - [Reading info](https://lume.land/plugins/reading_info/)
 - [URL](https://lume.land/plugins/url/)
@@ -167,3 +168,4 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [Inclusive Language](https://deno.land/x/lume_plugin_inclusive_language)
 - [Cache Assets](https://deno.land/x/lume_cache_assets)
 - [Aoba](https://deno.land/x/aoba) Fediverse Integration.
+- [Attributes](https://lume.land/plugins/attributes/)
