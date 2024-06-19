@@ -48,6 +48,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [TOML](https://lume.land/plugins/toml/)
 - [YAML](https://lume.land/plugins/yaml/)
 - [CSV](https://github.com/open-innovations/oi-lume-utils/tree/main/loaders)
+- [DuckDB](https://jsr.io/@dringtech/lume-duck)
 
 ### Code syntax
 
