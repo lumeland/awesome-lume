@@ -147,7 +147,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 
 ### Icons
 
-- [Icon plugins](https://github.com/lumeland/icon-plugins) Plugins to get icons from different collections (SimpleIcons, Phosphor)
+- [Icon plugins](https://github.com/lumeland/icon-plugins) Plugins to get icons from different collections (SimpleIcons, Phosphor, Heroicons)
 
 ### Data manipulation
 
