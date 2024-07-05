@@ -19,6 +19,7 @@ A collection of interesting plugins, articles and links for [Lume](https://lume.
 
 ### Articles
 
+- [Building the General Election Hexmaps](https://open-innovations.org/blog/2024-07-05-building-the-general-election-hexmaps)
 - [New Site Design for 2024](https://daniel-saunders.com/posts/notes/new-site-design-for-2024/)
 - [From static site generator to static site processor](https://thomasorus.com/from-static-site-generator-to-static-site-processor.html)
 - [Thinking out loud about static site generators](https://paulrobertlloyd.com/2023/054/a1/lume/)
