@@ -161,6 +161,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 
 - [OI Lume Viz](https://deno.land/x/oi_lume_viz)
 - [Serea](https://github.com/idris-maps/serea)
+- [Mermaid](https://deno.land/x/lume_mermaid_plugin)
 
 ### Misc
 
