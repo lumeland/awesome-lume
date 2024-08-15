@@ -16,6 +16,7 @@ A collection of interesting plugins, articles and links for [Lume](https://lume.
 - [Intro a Lume](https://www.youtube.com/watch?v=_Hz2Xj69UyQ) (Spanish)
 - [Getting started with Lume](https://www.youtube.com/watch?v=6ld61HU6V6k)
 - [Denolab](https://www.youtube.com/watch?v=lQb_u5X0gck)
+- [Lume, the static site generator for Deno – Static Feedback #12](https://www.youtube.com/watch?v=5lj0kCmC7L8)
 
 ### Articles
 
@@ -136,6 +137,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 
 ### CMS
 
+- [Lume CMS](https://lume.land/cms/)
 - [Decap CMS](https://lume.land/plugins/decap_cms/)
 
 ### Markdown
