@@ -174,3 +174,5 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [Cache Assets](https://deno.land/x/lume_cache_assets)
 - [Aoba](https://deno.land/x/aoba) Fediverse Integration.
 - [Attributes](https://lume.land/plugins/attributes/)
+- [Openring](https://github.com/lumeland/awesome-lume) A plugin that fetches articles from other blogs to be linked on your site
+
