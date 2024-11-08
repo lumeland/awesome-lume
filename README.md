@@ -164,6 +164,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [OI Lume Viz](https://deno.land/x/oi_lume_viz)
 - [Serea](https://github.com/idris-maps/serea)
 - [Mermaid](https://deno.land/x/lume_mermaid_plugin)
+- [Kroki](https://code.fosterhangdaan.com/foster/lume-plugin-kroki)
 
 ### Misc
 
@@ -175,4 +176,3 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [Aoba](https://deno.land/x/aoba) Fediverse Integration.
 - [Attributes](https://lume.land/plugins/attributes/)
 - [Openring](https://github.com/lumeland/awesome-lume) A plugin that fetches articles from other blogs to be linked on your site
-
