@@ -82,6 +82,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - 🔥 [Sitemap](https://lume.land/plugins/sitemap/)
 - 🔥 [Feed](https://lume.land/plugins/feed/)
 - 🔥 [Robots](https://lume.land/plugins/robots/)
+- [Basic SEO](https://github.com/timthepost/lume-basic-seo)
 
 ### Image manipulation
 
