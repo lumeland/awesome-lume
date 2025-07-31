@@ -83,6 +83,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - 🔥 [Feed](https://lume.land/plugins/feed/)
 - 🔥 [Robots](https://lume.land/plugins/robots/)
 - [Basic SEO](https://github.com/timthepost/lume-basic-seo)
+- 🔥 [JSON-LD](https://lume.land/plugins/json_ld/)
 
 ### Image manipulation
 
@@ -100,6 +101,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - 🔥 [UnoCSS](https://lume.land/plugins/unocss/)
 - [CleanCSS](https://deno.land/x/lume_cleancss) (for Lume v1.x)
 - 🔥 [Google Fonts](https://lume.land/plugins/google_fonts/)
+- 🔥 [PurgeCSS](https://lume.land/plugins/purgecss/)
 
 ### Template engines
 
@@ -134,6 +136,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - 🔥 [Relations](https://lume.land/plugins/relations/)
 - 🔥 [Search](https://lume.land/plugins/search/)
 - [NavBarData](https://deno.land/x/lume_navbardata)
+- 🔥 [Check URLs](https://lume.land/plugins/check_urls/)
 
 ### Internationalization
 
@@ -165,6 +168,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - 🔥 [FFF](https://lume.land/plugins/fff/) to convert data structure to [FFF specification](https://fff.js.org/).
 - 🔥 [Reading info](https://lume.land/plugins/reading_info/)
 - 🔥 [URL](https://lume.land/plugins/url/)
+- 🔥 [Extract date](https://lume.land/plugins/extract_date/)
 - [CI](https://deno.land/x/lume_plugin_ci) for CI information.
 
 ### Charts
@@ -176,7 +180,6 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 
 ### Misc
 
-- 🔥 [On Demand](https://lume.land/plugins/on_demand/)
 - 🔥 [Filter pages](https://lume.land/plugins/filter_pages/)
 - [Publish](https://deno.land/x/lume_publish) (for Lume v1.x)
 - [Inclusive Language](https://deno.land/x/lume_plugin_inclusive_language)
