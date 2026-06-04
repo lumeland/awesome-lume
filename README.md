@@ -61,6 +61,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - [🔥 Katext](https://lume.land/plugins/katex/) to render Tex math in HTML.
 - [Shiki](https://deno.land/x/lume_shiki) to use [Shiki](https://shiki.style/) library.
 - [Glow](https://deno.land/x/lume_glow)
+- [Nueglow](https://github.com/ethmarks/lume_nueglow) to use [Nueglow](https://nuejs.org/docs/nueglow) library.
 
 ### Optimization
 
